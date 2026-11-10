@@ -18,15 +18,15 @@ plugin:
     minor: 0
     patch: 22
   description: Provide bulk editing capability to Crafter Studio
-  documentation: "https://raw.githubusercontent.com/craftercms/bulkedit-plugin/master/README.md"
+  documentation: "https://raw.githubusercontent.com/craftersoftware/bulkedit-plugin/master/README.md"
   website:
     name: Studio Bulk Edit
-    url: https://github.com/craftercms/bulkedit-plugin
+    url: https://github.com/craftersoftware/bulkedit-plugin
   media:
     screenshots:
       - title: CrafterCMS
         description: CrafterCMS Plugin for Bulk Edit
-        url: "https://raw.githubusercontent.com/craftercms/bulkedit-plugin/master/.crafter/logo.png"
+        url: "https://raw.githubusercontent.com/craftersoftware/bulkedit-plugin/master/.crafter/logo.png"
   developer:
     company:
       name: CrafterCMS
